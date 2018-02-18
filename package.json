@@ -1,0 +1,24 @@
+{
+  "name": "arduino-irremote",
+  "version": "0.0.1",
+  "description":
+    "[![Build Status](https://travis-ci.org/z3t0/Arduino-IRremote.svg?branch=master)](https://travis-ci.org/z3t0/Arduino-IRremote)",
+  "main": "IRremote.cpp",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elgambet/Arduino-IRremote.git"
+  },
+  "author": "Ken Shirriff",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/elgambet/Arduino-IRremote/issues"
+  },
+  "homepage": "https://github.com/elgambet/Arduino-IRremote#readme",
+  "private": true
+}
